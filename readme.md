@@ -42,7 +42,7 @@ video_path=../Videos/Test/
 feature_path=../videos/Test/tf
 csv_folder=../videos/Test/tf
 ```
-then run the script like below and you are all done.. :) :)
+then run the script like below and you are all done.. 😊 😊
 
 ```bash
 ./extract_slowfast_features.sh

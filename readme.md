@@ -1,4 +1,5 @@
-# SlowFast, Clip, and Blip Feature extractor
+# SlowFast, CLIP, and BLIP Feature extractor
+Using this project, you can easily extract video features from raw videos using SlowFast, CLIP, and BLIP pre-trained backbones. 
 
 ## Getting Started 
 
